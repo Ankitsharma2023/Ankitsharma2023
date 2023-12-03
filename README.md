@@ -2,7 +2,7 @@
 
 📧 Email: ankitkumarconnect10@gmail.com
 🔗 LinkedIn: [linkedin.com/in/Ankit-Sharma/](https://www.linkedin.com/in/ankit-sharma-4a727828b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )  
-💻 GitHub: [github.com/kartikshukla](https://github.com/Ankitsharma2023)
+💻 GitHub: [github.com/Ankitsharma](https://github.com/Ankitsharma2023)
 ## ⚡ Languages, Tools and Technologies
 
 <table> 

@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">A Passionate SoftWare developer from India</h3>
-<img align ="right" alt="coding" width="400" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
+<!-- <img align ="right" alt="coding" width="400" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif"> -->
 
 - 🔭 I’m currently dedicated to various **Independent development and Generative AI  project.**
 

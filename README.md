@@ -1,21 +1,19 @@
- <img src="https://i.pinimg.com/originals/77/cf/fd/77cffd6c710c59bbf5d5456f31e1a8df.gif" alt="MasterHead" width="900" height="400">
-<h1 align="center">Hi 👋, I'm Ankit Sharma</h1>
-<h3 align="center">A Passionate frontend developer from India</h3>
+
+<h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
+<h3 align="center">A Passionate SoftWare developer from India</h3>
 <img align ="right" alt="coding" width="400" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
 
-- 🔭 I’m currently dedicated to various **Independent development project.**
+- 🔭 I’m currently dedicated to various **Independent development and Generative AI  project.**
 
-- 🌱 I’m currently learning **React Native and C++**
+- 🌱 I’m currently learning **LangChain and DSA**
 
 - 👨‍💻 All of my projects are available at [https://neon-swan-0ec3cf.netlify.app/](https://neon-swan-0ec3cf.netlify.app/)
 
 - 📝 I am currently active more on Twitter [https://twitter.com/AnkitSharma0866](https://twitter.com/AnkitSharma0866)
 
-- 💬 Ask me about **anything related React and C++**
-
 - 📫 How to reach me **ankitconnect10@gmail.com**
 
-- ⚡ Fun fact **I love travelling a lot.**
+- ⚡ Fun fact **I love Travelling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

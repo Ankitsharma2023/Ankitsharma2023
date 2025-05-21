@@ -103,9 +103,3 @@
 
 </div>
 
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsharma2023&show_icons=true&locale=en&layout=compact" alt="ankitsharma2023" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsharma2023&" alt="ankitsharma2023" /></p>

@@ -5,17 +5,17 @@
 
 - 🎓 **Honours Computer Science Student** with a deep passion for **software development, automation, and cloud technologies**.
  
-- 💼 I am currently Leading as the **Google Developer Group** Organizer at Bangalore Institute , **a community of 1000+ tech enthusiasts**.
+- 💼 Currently Leading as  **Google Developer Group** Organizer at Bangalore Institute , **a community of 1000+ tech enthusiasts**.
   
 - 🚀 Passionate about **performance**, **security**, and **writing clean**, **maintainable code**.
 
 - 🌱 I’m currently learning **Generative AI and DSA**
 
-- 👨‍💻 All of my projects are available at [https://neon-swan-0ec3cf.netlify.app/](https://neon-swan-0ec3cf.netlify.app/)
+- 👨‍💻 Projects : [https://neon-swan-0ec3cf.netlify.app/](https://neon-swan-0ec3cf.netlify.app/)
 
-- 📝 I am currently active more on Twitter [https://twitter.com/AnkitSharma0866](https://twitter.com/AnkitSharma0866)
+- 📝 Active on Twitter :  [https://twitter.com/AnkitSharma0866](https://twitter.com/AnkitSharma0866)
 
-- 📩 How to reach me => **ankitconnect10@gmail.com**
+- 📩 reach Me :  **ankitconnect10@gmail.com**
 
 <p align="center">
 <a href="https://twitter.com/ankitsharma0866" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitsharma0866" height="30" width="40" /></a>
@@ -102,4 +102,8 @@
 <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge&logoWidth=50">
 
 </div>
+
+---
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitsharma2023&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" />
+
 

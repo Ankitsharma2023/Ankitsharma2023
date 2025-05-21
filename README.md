@@ -3,9 +3,9 @@
 <h3 align="center">A Passionate SoftWare developer from India</h3>
 <!-- <img align ="right" alt="coding" width="400" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif"> -->
 
-- 🎓 **Honours Computer Science Student** with a deep passion for **software development, automation, and cloud technologies**.
+- 🎓 Honours**Computer Science** student passionate about **software development**, **automation**, and **cloud**.
  
-- 💼 Currently Leading as  **Google Developer Group** Organizer at Bangalore Institute , **a community of 1000+ tech enthusiasts**.
+- 💼 Leading **Google Developer Group** at Bangalore Institute, a community of **1000+ tech enthusiasts**.
   
 - 🚀 Passionate about **performance**, **security**, and **writing clean**, **maintainable code**.
 
